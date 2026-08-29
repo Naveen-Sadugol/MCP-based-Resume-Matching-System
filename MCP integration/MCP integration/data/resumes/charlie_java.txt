@@ -1,0 +1,9 @@
+Charlie
+Java Software Developer
+
+Skills:
+Java, Spring, Hibernate, SQL, Git, Linux, Docker
+
+Experience:
+Built enterprise Java applications and REST services.
+Worked with SQL databases, Git, Linux and Docker.

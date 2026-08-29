@@ -1,0 +1,9 @@
+Alice
+Python Backend Developer
+
+Skills:
+Python, SQL, Linux, Git, Docker, REST API, FastAPI, PostgreSQL
+
+Experience:
+Built backend services and REST APIs using Python and SQL.
+Worked with Linux, Git and Docker.

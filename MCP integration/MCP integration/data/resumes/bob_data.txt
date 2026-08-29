@@ -1,0 +1,9 @@
+Bob
+Data Analyst
+
+Skills:
+Python, SQL, Excel, Power BI, statistics, data analysis
+
+Experience:
+Created SQL reports and Python data analysis scripts.
+Worked with dashboards and business reporting.
